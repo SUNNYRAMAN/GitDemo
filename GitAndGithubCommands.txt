@@ -1,0 +1,18 @@
+https://git-scm.comdownloads
+
+Download Git for windows from here.
+
+
+
+
+>> For 1st time we need to configure github in our system
+
+    > git config --global user.name "SUNNYRAMAN"
+    > git config --global user.email "sunnyraman8222@gmail.com"
+
+    > git config --global color.ui auto
+
+>> Mandotary Commands
+
+    > git init
+    > git remote add origin https://github.com/SUNNYRAMAN/GitDemo.git
